@@ -1,0 +1,47 @@
+<% layout('layouts/boilerplate')%>
+
+<h1 class="mb-3 text-center text-primary">All Housings</h1>
+<div>
+    <a class="btn btn-success btn-lg btn-block mb-1 disabled" href="/campgrounds/new">Chat with developer</a>
+    <a class="btn btn-warning btn-lg btn-block mb-1 disabled" href="/campgrounds/new">Find something fun</a>
+    <a class="btn btn-primary btn-lg btn-block mb-4" href="/campgrounds/new">Add Housing</a>
+</div>
+<div class="row">
+    <div class="col-6">
+        <% for (let campground of campgrounds){%>
+        <div class="card" mb-3>
+            <div class="row">
+                <div class="col-md-4">
+                    <img class="img-fluid" alt="" src="<%=campground.image%>">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title"><%= campground.title %> </h5>
+                        <p class="card-text"><%= campground.description %></p>
+                        <p class="card-text">
+                            <small class="text-muted"><%= campground.location%></small>
+                        </p>
+                        <a class="btn btn-primary" href="/campgrounds/<%=campground._id%>">View <%=campground.title%></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <% }%>
+    </div>
+    <div class="col-6">
+        <div id='map' style='width: 40rem; height: 30rem;'></div>
+    
+    </div>
+</div>
+
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoidHVveGlubGkiLCJhIjoiY2xicHN2MzVnMGVkZjNxam5tNmh6aGxoZyJ9.r7Btc1hHMqHRU3UN75SsFQ';
+    const map = new mapboxgl.Map({
+    container: 'map', // container ID
+    style: 'mapbox://styles/mapbox/streets-v12', // style URL
+    center: [-70.2469434281857,43.66165193844568], // starting position [lng, lat]
+    zoom: 9, // starting zoom
+    });
+
+    
+</script>
