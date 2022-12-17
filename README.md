@@ -10,25 +10,7 @@
 
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -55,10 +37,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Home page](images\HomePage.png)
-![show page](images\showpage.png)
-![newhousing page](images\newhousing.png)
-![login page](images\login.png)
+![Home page](\images\HomePage.png)
+![show page](\images\showpage.png)
+![newhousing page](\images\newhousing.png)
+![login page](\images\login.png)
 
 We designed a dynamic website for users to register, login, create housing/campsite information, explore different housing and comment on the places they've visited. 
 
