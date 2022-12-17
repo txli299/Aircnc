@@ -37,9 +37,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+### Home page
 ![Home page](https://cfxgocx.media.bublupcdn.com/8ZcfwitaTxLYJvZmXsUuYA/images/full_007-im-25fa5853-d4e2-4ae1-b6d4-1725e519219e.jpg)
+### Show page
 ![show page](https://cfxgocx.media.bublupcdn.com/M9V02HuL1_k_WnGD4_a70A/images/full_007-im-c3ad7a4b-69e2-4073-b69c-1bb9ab7f7b0d.jpg)
+### Make new housing
 ![newhousing page](https://cfxgocx.media.bublupcdn.com/UoI2iROaxeEssRFYfj00iQ/images/full_007-im-11208862-e968-419d-8042-037ecc8eeefc.jpg)
+### User login
 ![login page](https://cfxgocx.media.bublupcdn.com/CCKJ92us4G8gFE6hlNFFNQ/images/full_007-im-9f3a6b70-d8aa-485b-9e3d-cc0abcf9bd42.jpg)
 
 We designed a dynamic website for users to register, login, create housing/campsite information, explore different housing and comment on the places they've visited. 
