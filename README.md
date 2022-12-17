@@ -55,8 +55,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Aircnc Screen Shot][HomePage]](images\HomePage.png)
+![Home page](images\HomePage.png)
 
 We designed a dynamic website for users to register, login, create housing/campsite information, explore different housing and comment on the places they've visited. 
 
