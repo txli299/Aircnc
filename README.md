@@ -56,6 +56,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![Home page](images\HomePage.png)
+![show page](images\showpage.png)
+![newhousing page](images\newhousing.png)
+![login page](images\login.png)
 
 We designed a dynamic website for users to register, login, create housing/campsite information, explore different housing and comment on the places they've visited. 
 
