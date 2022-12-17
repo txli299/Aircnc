@@ -38,9 +38,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![Home page](https://cfxgocx.media.bublupcdn.com/8ZcfwitaTxLYJvZmXsUuYA/images/full_007-im-25fa5853-d4e2-4ae1-b6d4-1725e519219e.jpg)
-![show page](https://cfxgocx.sharing.bublup.com/ui/landing_page?item_id=001-i-103e0867-7e96-4549-8682-2610a26f0bb6)
-![newhousing page](https://cfxgocx.sharing.bublup.com/ui/landing_page?item_id=001-i-47682789-55f0-4f06-92ce-2b8dfc56cee2)
-![login page](https://cfxgocx.sharing.bublup.com/ui/landing_page?item_id=001-i-13e91b30-d613-4ac0-8a3f-a5569e7a7c46)
+![show page](https://cfxgocx.media.bublupcdn.com/M9V02HuL1_k_WnGD4_a70A/images/full_007-im-c3ad7a4b-69e2-4073-b69c-1bb9ab7f7b0d.jpg)
+![newhousing page](https://cfxgocx.media.bublupcdn.com/UoI2iROaxeEssRFYfj00iQ/images/full_007-im-11208862-e968-419d-8042-037ecc8eeefc.jpg)
+![login page](https://cfxgocx.media.bublupcdn.com/CCKJ92us4G8gFE6hlNFFNQ/images/full_007-im-9f3a6b70-d8aa-485b-9e3d-cc0abcf9bd42.jpg)
 
 We designed a dynamic website for users to register, login, create housing/campsite information, explore different housing and comment on the places they've visited. 
 
